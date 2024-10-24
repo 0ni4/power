@@ -14,4 +14,4 @@ Powershellで動作するsyslogスクリプトです。
 
 ## 詳しくはこの記事をご覧ください
 
-https://onissue.hatenablog.jp/entry/2022/06/13/140430
+https://blog.fro-it.com/powershell-syslog/
